@@ -1,1 +1,1 @@
-just a repo with dart basics
+just a repo with dart and flutter Baiscs
