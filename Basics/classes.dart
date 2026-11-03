@@ -6,6 +6,7 @@ var chocolate = menuItem("Chocolate", 3.99);
 print(icecream.title);  //in maps it would be print(icecream["title"]);
 print(icecream.price);
 print(icecream.formate());
+print(chocolate.title);
 
 
 }
